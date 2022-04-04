@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<title></title>
+</head>
+<style type="text/css">
+	.list{
+		width: auto;
+		height: 1300px;
+		background: #050504;
+	}
+	.list2{
+		height: 100px;
+		background: #8c643f;
+	}
+	.ladder{
+		height: 40px;
+		background: #1a1918;
+		position: absolute;
+		width: 450px;
+		border-radius: 3px;
+	}
+	.wnd{
+		height: 350px;
+		width: 450px;
+		background: #334369;
+		position: absolute;
+	}
+	.inftb{
+		height: 60px;
+		background: #8c643f;
+	}
+	.works{
+		height: ;
+		width: ;
+		background: #334369;
+	} 
+</style>
+<body>
+	<div class="list">
+		<div class="list2">
+		</div>
+		<div style="left: 200px;" class="wnd">
+			<div class="inftb">
+			</div>
+			<div class="ladder" style="top: 70px">
+			</div>
+			<div class="ladder" style="top: 130px">
+			</div>
+			<div class="ladder" style="top: 190px">
+			</div>
+			<div class="ladder" style="top: 250px">
+			</div>
+		</div>
+		<div class="wnd" style="left: 700px;">
+		</div>
+		<div class="wnd" style="left: 1200px;">
+		</div>
+		<div style="height: 550px; width: 1500px; background: #1a1918; position: absolute; left: 200px; top: 500px;">
+			<div style="height: 550px; width:500px; background: #8c643f;">
+				<div class=""></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
